@@ -126,6 +126,25 @@
         "hungry"
       ],
       "id": "12"
+    },
+    {
+      "name": "Mono",
+      "species": "Mokey",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "Mono",
+      "species": "Mokey",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "anxious"
+      ],
+      "id": "14"
     }
   ]
 }
